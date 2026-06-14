@@ -1,16 +1,216 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vishalvc-lab/vishalvc-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- HERO BANNER -->
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20V%20C&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=18)](https://github.com/vishalvc2304)
 
-Here are some ideas to get you started:
+<!-- TYPING HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vishal+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+Full-Stack+Dev;Building+Intelligent+Solutions+with+Python;Turning+Data+into+Decisions+%F0%9F%A4%96;100%2B+LeetCode+Problems+Solved+%F0%9F%9A%80)](https://github.com/vishalvc2304)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<!-- CODE BLOCK ABOUT ME -->
+```python
+class Vishal:
+    name        = "Vishal V C"
+    location    = "Bengaluru, India 🇮🇳"
+    degree      = "B.E. in AI & ML — Rajarajeshwari College of Engineering (CGPA: 8.4)"
+    email       = "vishalvc2304@gmail.com"
+
+    stack = {
+        "languages":   ["Python", "JavaScript", "HTML", "CSS"],
+        "frontend":    ["React.js", "Bootstrap", "Tailwind CSS"],
+        "backend":     ["Django"],
+        "databases":   ["MySQL", "MongoDB"],
+        "ml_libs":     ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "Matplotlib"],
+        "tools":       ["Git", "VS Code"],
+    }
+
+    currently_learning = ["Advanced Deep Learning", "LLMs & Prompt Engineering", "Cloud Deployment (AWS/GCP)"]
+
+    fun_fact = "I taught a CNN to read fingerprints before I learned to read a whiteboard 🫆🧠"
+
+    def motto(self):
+        return "Build things that matter. Keep learning. Ship it. 🚀"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishalvc2304&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=CDD6F4&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvc2304&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=CDD6F4&langs_count=8" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vishalvc2304&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Vishal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalvc2304&bg_color=0D1117&color=70A5FD&line=70A5FD&point=CDD6F4&area=true&area_color=70A5FD&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishalvc2304&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><b>🏢 Python Full-Stack Intern — QSpiders, Bengaluru</b></summary>
+
+<br/>
+
+- 🎨 **Front-End Development:** Built responsive web UIs using HTML, CSS, JavaScript, and React.js
+- 🔗 **Full-Stack Integration:** Connected front-end interfaces with back-end services and databases using Django and MySQL
+- 🍕 **Capstone Project:** Delivered a production-grade Food Delivery Website featuring:
+  - Secure user authentication
+  - Restaurant & menu management
+  - Shopping cart & order processing
+- 🧠 **Growth:** Sharpened problem-solving, debugging, and agile development skills through hands-on project cycles
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🗂️ Project | 🛠️ Tech Stack | 📝 Description |
+|:---|:---|:---|
+| 🫆 **Blood Group Detection via Fingerprint** | Python · TensorFlow · CNN · OpenCV | AI system that predicts blood groups from fingerprint patterns using deep learning; built custom data pipeline for feature extraction & classification |
+| 🧠 **Brain Tumor Detection (Early Stage)** | Python · CNN · SVM · Random Forest · MRI | ML pipeline that classifies brain tumors from MRI scans, improving diagnostic speed and accuracy for radiologists |
+| 🍔 **Full-Stack Food Delivery Platform** | React.js · Django · MySQL · HTML/CSS/JS | End-to-end food delivery web app with auth, cart, menu & order management — deployed with responsive UI and secure backend |
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🎖️ Achievement | 📌 Details |
+|:---|:---|
+| 🟡 **LeetCode 100+ Problems** | Consistently solved 100+ algorithmic problems; sharpened DSA and problem-solving skills |
+| 🎓 **Python Full-Stack Certification** | Certified by QSpiders — Full-Stack Development with Python |
+| 🤖 **Python ML & NLP Certification** | Certified by Prinston Technologies — Machine Learning & Natural Language Processing |
+| ✨ **Generative AI & Prompt Engineering** | Workshop certification in GenAI applications and prompt design |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🏫 Institution | 📚 Degree | 📅 Duration | 🎯 CGPA |
+|:---|:---|:---|:---|
+| Rajarajeshwari College of Engineering, Bengaluru | B.E. — Artificial Intelligence & Machine Learning | Dec 2023 – May 2026 | **8.4 / 10** |
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-70A5FD?style=flat-square&logo=anthropic&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Advanced Deep Learning](https://img.shields.io/badge/Advanced%20Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalvc2304@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvc2304)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishalvc2304)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/vishalvc2304)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build things that matter. Keep learning. Ship it."* 🚀
+
+<img src="https://komarev.com/ghpvc/?username=vishalvc2304&style=flat-square&color=70A5FD&label=Profile+Views" alt="profile views"/>
+
+</div>
+
+<!-- FOOTER WAVE -->
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/vishalvc2304)
