@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20V%20C&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=18)](https://github.com/vishalvc2304)
+<!-- ═══════════════════════════════════════════════════ HERO BANNER -->
+<a href="https://github.com/vishalvc2304">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20V%20C&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=18" alt="Vishal V C — Hero Banner"/>
+</a>
 
-<!-- TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vishal+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+Full-Stack+Dev;Building+Intelligent+Solutions+with+Python;Turning+Data+into+Decisions+%F0%9F%A4%96;100%2B+LeetCode+Problems+Solved+%F0%9F%9A%80)](https://github.com/vishalvc2304)
+<!-- ════════════════════════════════════════════════ TYPING HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Vishal+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+Full-Stack+Dev;Building+Intelligent+Solutions+with+Python;Turning+Data+into+Decisions+%F0%9F%A4%96;100%2B+LeetCode+Problems+Solved+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-<!-- CODE BLOCK ABOUT ME -->
+<!-- ════════════════════════════════════════════ CODE BLOCK ABOUT ME -->
 ```python
 class Vishal:
     name        = "Vishal V C"
@@ -27,9 +29,9 @@ class Vishal:
         "tools":       ["Git", "VS Code"],
     }
 
-    currently_learning = ["Advanced Deep Learning", "LLMs & Prompt Engineering", "Cloud Deployment (AWS/GCP)"]
+    currently_learning = ["Advanced Deep Learning", "LLMs & Prompt Engineering", "Cloud (AWS/GCP)"]
 
-    fun_fact = "I taught a CNN to read fingerprints before I learned to read a whiteboard 🫆🧠"
+    fun_fact = "I taught a CNN to read fingerprints before I could read a whiteboard 🫆🧠"
 
     def motto(self):
         return "Build things that matter. Keep learning. Ship it. 🚀"
@@ -79,9 +81,9 @@ class Vishal:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishalvc2304&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=CDD6F4&rank_icon=github" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalvc2304&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=CDD6F4&rank_icon=github&cache_seconds=1800" alt="Vishal's GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvc2304&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=CDD6F4&langs_count=8" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvc2304&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=CDD6F4&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
@@ -91,7 +93,7 @@ class Vishal:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishalvc2304&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=888888)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=vishalvc2304&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=888888&type=svg" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -101,7 +103,7 @@ class Vishal:
 
 <div align="center">
 
-[![Vishal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalvc2304&bg_color=0D1117&color=70A5FD&line=70A5FD&point=CDD6F4&area=true&area_color=70A5FD&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalvc2304&bg_color=0D1117&color=70A5FD&line=70A5FD&point=CDD6F4&area=true&area_color=1e3a5f&hide_border=true&theme=tokyo-night" alt="Vishal's Activity Graph" width="100%"/>
 
 </div>
 
@@ -111,7 +113,7 @@ class Vishal:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishalvc2304&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=vishalvc2304&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
@@ -143,8 +145,8 @@ class Vishal:
 | 🗂️ Project | 🛠️ Tech Stack | 📝 Description |
 |:---|:---|:---|
 | 🫆 **Blood Group Detection via Fingerprint** | Python · TensorFlow · CNN · OpenCV | AI system that predicts blood groups from fingerprint patterns using deep learning; built custom data pipeline for feature extraction & classification |
-| 🧠 **Brain Tumor Detection (Early Stage)** | Python · CNN · SVM · Random Forest · MRI | ML pipeline that classifies brain tumors from MRI scans, improving diagnostic speed and accuracy for radiologists |
-| 🍔 **Full-Stack Food Delivery Platform** | React.js · Django · MySQL · HTML/CSS/JS | End-to-end food delivery web app with auth, cart, menu & order management — deployed with responsive UI and secure backend |
+| 🧠 **Brain Tumor Detection (Early Stage)** | Python · CNN · SVM · Random Forest | ML pipeline that classifies brain tumors from MRI scans, improving diagnostic speed and accuracy for radiologists |
+| 🍔 **Full-Stack Food Delivery Platform** | React.js · Django · MySQL · HTML/CSS/JS | End-to-end food delivery web app with auth, cart, menu & order management — responsive UI and secure backend |
 
 </div>
 
@@ -158,7 +160,7 @@ class Vishal:
 |:---|:---|
 | 🟡 **LeetCode 100+ Problems** | Consistently solved 100+ algorithmic problems; sharpened DSA and problem-solving skills |
 | 🎓 **Python Full-Stack Certification** | Certified by QSpiders — Full-Stack Development with Python |
-| 🤖 **Python ML & NLP Certification** | Certified by Prinston Technologies — Machine Learning & Natural Language Processing |
+| 🤖 **Python ML & NLP Certification** | Certified by Prinston Technologies — Machine Learning & NLP |
 | ✨ **Generative AI & Prompt Engineering** | Workshop certification in GenAI applications and prompt design |
 
 </div>
@@ -182,10 +184,10 @@ class Vishal:
 <div align="center">
 
 ![LLMs](https://img.shields.io/badge/Large%20Language%20Models-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-70A5FD?style=flat-square&logo=anthropic&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-70A5FD?style=flat-square&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Advanced Deep Learning](https://img.shields.io/badge/Advanced%20Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Advanced%20Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -208,9 +210,9 @@ class Vishal:
 
 *"Build things that matter. Keep learning. Ship it."* 🚀
 
-<img src="https://komarev.com/ghpvc/?username=vishalvc2304&style=flat-square&color=70A5FD&label=Profile+Views" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=vishalvc2304&style=flat-square&color=70A5FD&label=Profile+Views" alt="Profile Views"/>
+
+<!-- ══════════════════════════════════════════════════ FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer Wave"/>
 
 </div>
-
-<!-- FOOTER WAVE -->
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/vishalvc2304)
