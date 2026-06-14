@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════ HERO BANNER -->
-<a href="https://github.com/vishalvc2304">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20V%20C&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=18" alt="Vishal V C — Hero Banner"/>
-</a>
-
 <!-- ════════════════════════════════════════════════ TYPING HEADER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Vishal+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+Full-Stack+Dev;Building+Intelligent+Solutions+with+Python;Turning+Data+into+Decisions+%F0%9F%A4%96;100%2B+LeetCode+Problems+Solved+%F0%9F%9A%80" alt="Typing SVG"/>
 
@@ -76,46 +71,6 @@ class Vishal:
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalvc2304&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=CDD6F4&rank_icon=github&cache_seconds=1800" alt="Vishal's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvc2304&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=CDD6F4&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vishalvc2304&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=888888&type=svg" alt="GitHub Streak Stats"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalvc2304&bg_color=0D1117&color=70A5FD&line=70A5FD&point=CDD6F4&area=true&area_color=1e3a5f&hide_border=true&theme=tokyo-night" alt="Vishal's Activity Graph" width="100%"/>
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishalvc2304&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
